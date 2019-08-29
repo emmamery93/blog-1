@@ -20,17 +20,28 @@ Cara ini bisa dicoba jika kamu masih bisa mengakses menu Setting atau Pengaturan
 Berikut langkah cara untuk mereset hp kalian ke pengaturan pabrik.
 
 masuk ke menu setting/pengaturan.
+
 cari back up data atau factory reset.
+
 kemudian klik factory data reset.
-setelah di klik tunggu beberapa menit ototmatis hp akan merestart sendiri usahakan batre hp lebih dari 50%
+
+setelah di klik tunggu beberapa menit ototmatis hp akan merestart sendiri usahakan batre hp lebih dari 50%.
+
 Ada 1 cara lagi mengatasi hp mentok di logo/bootloop,Langkah terakhir ini adalah cara yang paling ampuh untu Berikut ini cara masuk ke Recovery Mode untuk melalukan Wipe Data/Factory Reset pada Android
 
 Pertama-tama pastikan baterai anda cukup, minimal 70% untuk menghindari hal yang tidak diinginkan.
+
 Lalu matikan handphone atau tablet android anda.
+
 Tekan dan Tahan tombol Volume Up + HOME + Power secara bersamaan beberapa detik.
+
 Gunakan Volume Up untuk memilih menu “Factory reset / wipe data”.
+
 Kemudian tekan tombol Home untuk memulai proses reset.
+
 Tunggu beberapa saat sampai prosesnya selesai.
+
 Kemudian pilih lagi menu Reboot System Now.
+
 Untuk masuk ke menu Recovery Mode hanya bisa dilakukan saat kondisi hp mati (off)
 Untuk masuk ke Recovery Mode di setiap handphone kadang berbeda-beda tergantung merk/tipe hp yang di gunakan,sekian tips dari saya semoga bermanfaat.
