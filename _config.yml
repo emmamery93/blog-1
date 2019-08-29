@@ -20,8 +20,8 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           anto
+    anto:
+      name:           Anto
       site:           https://hpku.info
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Anto, the author of Hpku.info, Blog seputar smartphone "
