@@ -1,10 +1,11 @@
----
+
 layout: post
 title:  "cara factory reset hp android"
 author: Anto
 categories: [ tutorial ]
 image: assets/images/factory-reset.jpg
 tags: [featured]
+
 Melakukan factory reset atau reset ulang pada android bertujuan untuk mengembalikan software pada hp atau tablet android kekondisi awal seperti saat baru keluar dari pabrik,factory reset biasanya dilakukan untuk menyelesaikan masalah kerusakan software yang terjadi pada android.
 
 Factory reset atau reset ulang pada android akan menyebabkan semua data dan aplikasi yang tersimpan di memori internal handphone/tablet android akan terhapus,banyak cara yang bisa dilakukan untuk mereset ulang android, baik itu dengan melalui menu Backup & Reset, menekan kode rahasia,atau melalui Recovery Mode pada Android.
@@ -18,18 +19,17 @@ Cara ini bisa dicoba jika kamu masih bisa mengakses menu Setting atau Pengaturan
 
 Berikut langkah cara untuk mereset hp kalian ke pengaturan pabrik.
 
-1. masuk ke menu setting/pengaturan.
-2. cari back up data atau factory reset.
-3. kemudian klik factory data reset.
-4. setelah di klik tunggu beberapa menit ototmatis hp akan merestart sendiri usahakan batre hp lebih dari 50%
+masuk ke menu setting/pengaturan.
+cari back up data atau factory reset.
+kemudian klik factory data reset.
+setelah di klik tunggu beberapa menit ototmatis hp akan merestart sendiri usahakan batre hp lebih dari 50%
 Ada 1 cara lagi mengatasi hp mentok di logo/bootloop,Langkah terakhir ini adalah cara yang paling ampuh untu Berikut ini cara masuk ke Recovery Mode untuk melalukan Wipe Data/Factory Reset pada Android
 
-1. Pertama-tama pastikan baterai anda cukup, minimal 70% untuk menghindari hal yang tidak diinginkan.
-2. Lalu matikan handphone atau tablet android anda.
-3. Tekan dan Tahan tombol Volume Up + HOME + Power secara bersamaan beberapa detik.
-4. Gunakan Volume Up untuk memilih menu “Factory reset / wipe data”.
-5. Kemudian tekan tombol Home untuk memulai proses reset.
-6. Tunggu beberapa saat sampai prosesnya selesai.
-7. Kemudian pilih lagi menu Reboot System Now.
-8. Untuk masuk ke menu Recovery Mode hanya bisa dilakukan saat kondisi hp mati (off)
+Pertama-tama pastikan baterai anda cukup, minimal 70% untuk menghindari hal yang tidak diinginkan.
+Lalu matikan handphone atau tablet android anda.
+Tekan dan Tahan tombol Volume Up + HOME + Power secara bersamaan beberapa detik.Gunakan Volume Up untuk memilih menu “Factory reset /  wipe data”.
+Kemudian tekan tombol Home untuk memulai proses reset.
+Tunggu beberapa saat sampai prosesnya selesai.
+Kemudian pilih lagi menu Reboot System Now.
+Untuk masuk ke menu Recovery Mode hanya bisa dilakukan saat kondisi hp mati (off)
 Untuk masuk ke Recovery Mode di setiap handphone kadang berbeda-beda tergantung merk/tipe hp yang di gunakan,sekian tips dari saya semoga bermanfaat.
