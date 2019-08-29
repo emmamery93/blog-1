@@ -1,11 +1,11 @@
-
+---
 layout: post
 title:  "cara factory reset hp android"
 author: Anto
 categories: [ tutorial ]
 image: assets/images/factory-reset.jpg
 tags: [featured]
-
+---
 Melakukan factory reset atau reset ulang pada android bertujuan untuk mengembalikan software pada hp atau tablet android kekondisi awal seperti saat baru keluar dari pabrik,factory reset biasanya dilakukan untuk menyelesaikan masalah kerusakan software yang terjadi pada android.
 
 Factory reset atau reset ulang pada android akan menyebabkan semua data dan aplikasi yang tersimpan di memori internal handphone/tablet android akan terhapus,banyak cara yang bisa dilakukan untuk mereset ulang android, baik itu dengan melalui menu Backup & Reset, menekan kode rahasia,atau melalui Recovery Mode pada Android.
@@ -27,7 +27,8 @@ Ada 1 cara lagi mengatasi hp mentok di logo/bootloop,Langkah terakhir ini adalah
 
 Pertama-tama pastikan baterai anda cukup, minimal 70% untuk menghindari hal yang tidak diinginkan.
 Lalu matikan handphone atau tablet android anda.
-Tekan dan Tahan tombol Volume Up + HOME + Power secara bersamaan beberapa detik.Gunakan Volume Up untuk memilih menu “Factory reset /  wipe data”.
+Tekan dan Tahan tombol Volume Up + HOME + Power secara bersamaan beberapa detik.
+Gunakan Volume Up untuk memilih menu “Factory reset / wipe data”.
 Kemudian tekan tombol Home untuk memulai proses reset.
 Tunggu beberapa saat sampai prosesnya selesai.
 Kemudian pilih lagi menu Reboot System Now.
