@@ -24,7 +24,7 @@ authors:
       name:           Anto
       site:           https://hpku.info
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      bio:            "Hi, I am Anto, the author of Hpku.info, Blog seputar smartphone "
       email:          ytube1897@gmail.com
       twitter:        
  
@@ -36,7 +36,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: anto
       avatar: /assets/images/avatar1.jpg
       
   # all pages
