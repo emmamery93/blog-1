@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "spesifikasi asus zenfone max pro m1"
-categories: [ review smartphone]
+title:  "Spesifikasi Asus Zenfone Max Pro M1"
+categories: [ review,smartphone]
 image: assets/images/asus-m1.jpg
 ---
 Baterai jumbo 5000 mAh, Dual kamera, Ponsel ini harganya terjangkau, Asus sudah secara resmi meluncurkan smartphone andalannya di kelas harga 2 sampai 3 jutaan rupiah, yakni ZenFone Max Pro M1, kehadiran produk ini terbilang fenomenal karena menjadi smartphone dengan Snapdragon 636 termurah yang ada di Indonesia sekarang.
