@@ -3,6 +3,7 @@ name: 'HPKU'
 description: 'HPku - informasi seputar gadget '
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
+url: "https://hpku.info"
 baseurl: ''
 disqus: 'hpkuinfo'
 email: 'ytube1897@gmail.com'
