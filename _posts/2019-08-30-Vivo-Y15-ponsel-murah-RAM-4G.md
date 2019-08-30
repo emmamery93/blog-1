@@ -3,7 +3,7 @@ layout: post
 title:  "Spesifikasi Vivo Y15, ponsel RAM 4 GB baterai jumbo 5000 mAh dengan harga murah"
 author: anto
 categories: [ review ]
-image: assets/images/Vivo-V15-.jpg
+image: assets/images/Vivo-Y15.jpg
 tags: [featured]
 ---
 
