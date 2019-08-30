@@ -26,4 +26,5 @@ Vivo Y15 ini dibekali fitur Ultra Game Mode dan Dual Turbo untuk memanjakan game
 Vivo Y15 merupakan salah satu smartphone menengah terjangkau yang menawarkan tiga buah kamera belakang dan memori internal yang lumayan besar, harga smartphone Vivo Y15 ini dibanderol kurang lebih 2.2 jutaan.
 
 Jika dilihat dari spesifikasi dan fiturnya, harga yang ditawarkan oleh Vivo Y15 sebenarnya cukup sepadan dan bersaing di kelasnya, baterai besar dan kamera depan andal adalah kunci untuk menarik perhatian konsumen.
+
 Sumber: laptophia.com
