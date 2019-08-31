@@ -3,7 +3,7 @@ layout: post
 title:  "Tips merawat HP agar tidak lemot"
 author: Anto
 categories: [hp,tutorial]
-image: assets/images/Screenshot-.jpg
+image: assets/images/Screenshot.jpg
 tags: [featured]
 ---
 
