@@ -4,7 +4,7 @@ title:  "Review Xiaomi S2"
 author: Anto
 categories: [ hp, review ]
 image: assets/images/review-xiaomi-s2.jpg
-tags: [sticky]
+
 ---
 
 Xiaomi belakangan ini menjadi salah satu vendor smartphone yang cukup sibuk, Selain akan melepas Redmi Note 5 versi Indonesia kabarnya raksasa asal Tiongkok ini juga mempersiapkan smartphone terbarunya yang diberi nama Xiaomi Redmi S2. Meski membawa desain yang mirip Redmi Note 5, HP ini membawa spesifikasi yang lebih rendah. Hal yang cukup wajar, memgingat penempatan posisinya berada dibawah Redmi Note 5.
