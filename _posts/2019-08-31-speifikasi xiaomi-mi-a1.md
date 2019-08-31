@@ -11,7 +11,7 @@ Kali ini saya akan langsung memulai pembahasan dari spesifikasi dan UI pada pera
 
 Seperti yang telah banyak kita ketahui, Mi A1 pada dasarnya adalah perangkat yang sama dengan Xiaomi Mi 5X,yaitu memiliki spesifikasi diantaranya layar IPS 5,5 inci dengan resolusi Full HD yang dilapisi dengan pelindung layar Gorilla Glass,tidak diketahui secara spesifik jenis pelindung layar Gorilla Glass versi apa yang digunakan,sementara dapur pacunya adalah SoC Snapdragon 625 (Octa-Core 2,0 GHz ARM Cortex A53 + GPU Adreno 506),dibekali dengan RAM berkapasitas 4GB serta internal storage 64 GB.
 
-xiaomi mi A1
+Xiaomi mi A1
 
 NETWOR Technology:GSM / HSPA / LTE
 
