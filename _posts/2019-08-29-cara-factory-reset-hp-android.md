@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "cara factory reset hp android"
+title:  "Cara factory reset hp android"
 author: Anto
 categories: [ tutorial ]
 image: assets/images/factory-reset.jpg
