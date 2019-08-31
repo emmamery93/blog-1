@@ -12,7 +12,7 @@ HALO sobat kali ini saya akan membahas review tentang hp nokia terutama nokia 7,
 NOKIA 7 hadir dengan layar 5.2" IPS LCD capacitive 16m colors dan resolusinya juga lumayan 1080 X 1920 pixels 16:9 ratio dan untuk kerapatan layarnya sangat bagus 424ppi density pasti sangat jernih sudah tau kan kelasnya nokia dan layarnya juga sudah dilindungi dengan corning gorilla glass 3 yang pastinya kuat dan tahan goresan.
 
 Dan network teknologinya sendiri yang pasti 4G mengusung GSM/CDMA/HSPA/EVDO/LTE.
-OS nya juga versinya sudah 7.1 nougat dan bisa di upgrade ke 8.0 oreo,chipsetnya mengusung qualcomm SDM630 snapdragon 360 dan cpunya sudah octa-core 2.2 GHZ cortex-A53 dan dibantu dengan GPU 508 yang pastinya akan membuat kinerja hp sangat ringan untuk memainkan game game dan aplikasi lainya dan ditambah dengan memori internal yang gede 64GB dan ram 4/6GB.
+OS nya juga versinya sudah 7.1 nougat dan bisa di upgrade ke 8.0 oreo, chipsetnya mengusung qualcomm SDM630 snapdragon 360 dan cpunya sudah octa-core 2.2 GHZ cortex-A53 dan dibantu dengan GPU 508 yang pastinya akan membuat kinerja hp sangat ringan untuk memainkan game game dan aplikasi lainya dan ditambah dengan memori internal yang gede 64GB dan ram 4/6GB.
 
 Kameranya dibekali dengan 16mp zeiss optics dual led dual tone flash yang pastinya hasil kameranya akan sangat bagus walau di malam hari juga karena kita sudah tau keunggulan kamera nokia sangat jernih apalagi pake zeiss optics dan mendukung 1080@30fps untuk membuat video,namun kameranya depannya hanya dibekali dengan resolusi 5mp tapi cukup kalo buat selfi.
 
