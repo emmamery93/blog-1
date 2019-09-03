@@ -7,7 +7,7 @@ image: assets/images/aplikasi-game.jpg
 
 ---
 
-Mungkin kalian akan merasa kesal saat sedang asik siknya bermain game tiba tiba hp kita mengalami lagg dan lemot bahkan aplikasi game yang kita mainkan keluar sendiri. Untuk menghindari lagging dan lemot saat bermain game HD apalagi hp kita cuma hp biasa saja yang ram nya kecil tidak mampu menjalankan.
+Mungkin kalian akan merasa kesal saat sedang asik siknya bermain game tiba tiba hp kita mengalami lagg dan lemot bahkan aplikasi game yang kita mainkan keluar sendiri. Untuk menghindari lagging dan lemot saat bermain game HD apalagi hp kita cuma hp biasa saja yang ram nya kecil tidak mampu menjalankan, berikut rekomendasi aplikasi tambahan untuk bermain game agar tidak lagg dan lemot.
 
 1.Gltools
 
