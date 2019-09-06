@@ -6,13 +6,13 @@ categories: [ tutorial ]
 image: assets/images/factory-reset.jpg
 tags: [featured]
 ---
-Melakukan factory reset atau reset ulang pada android bertujuan untuk mengembalikan software pada hp atau tablet android kekondisi awal seperti saat baru keluar dari pabrik,factory reset biasanya dilakukan untuk menyelesaikan masalah kerusakan software yang terjadi pada android.
+Melakukan **factory reset** atau reset ulang pada android bertujuan untuk mengembalikan software pada hp atau tablet android kekondisi awal seperti saat baru keluar dari pabrik,factory reset biasanya dilakukan untuk menyelesaikan masalah kerusakan software yang terjadi pada android.
 
-Factory reset atau reset ulang pada android akan menyebabkan semua data dan aplikasi yang tersimpan di memori internal handphone/tablet android akan terhapus,banyak cara yang bisa dilakukan untuk mereset ulang android, baik itu dengan melalui menu Backup & Reset, menekan kode rahasia,atau melalui Recovery Mode pada Android.
+Factory reset atau reset ulang pada **android** akan menyebabkan semua data dan aplikasi yang tersimpan di memori internal handphone/tablet android akan terhapus,banyak cara yang bisa dilakukan untuk mereset ulang android, baik itu dengan melalui menu Backup & Reset, menekan kode rahasia,atau melalui Recovery Mode pada Android.
 
 Karena banyaknya metode yang bisa dilakukan untuk reset ulang hp android jadi akan saya jelaskan satu persatu agar anda memahaminya dengan jelas,berikut ini adalah cara factory reset hp android yang bisa kamu coba sendiri
 
-Cara Factory Reset Hp Android
+**Cara Factory Reset Hp Android**
 Melalui menu setting/pengaturan di hp kalian
 
 Cara ini bisa dicoba jika kamu masih bisa mengakses menu Setting atau Pengaturan pada android, sebelum melakukan reset sebaiknya backup terlebih dahulu data yang dianggap penting seperti foto-foto, video, dokumen dan file-file penting lainnya ke External Memori.
