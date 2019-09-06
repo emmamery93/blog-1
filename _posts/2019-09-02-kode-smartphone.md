@@ -7,10 +7,10 @@ image: assets/images/kode-angka-smrtphone.jpg
 
 ---
 
-Saat ini Smartphone sudah sangat melekat di kehidupan sehari hari,Kebanyakan pengguna ponsel pintar ini memang sudah mengetahui fitur-fitur yang banyak disediakan, Namun ternyata, Pada smartphone terdapat kode tersembunyi yang bisa digunakan, Kode ini nantinya akan membawamu ke fitur fitur yang ada di ponsel.
+Saat ini **Smartphone** sudah sangat melekat di kehidupan sehari hari,Kebanyakan pengguna ponsel pintar ini memang sudah mengetahui fitur-fitur yang banyak disediakan, Namun ternyata, Pada smartphone terdapat kode tersembunyi yang bisa digunakan, Kode ini nantinya akan membawamu ke fitur fitur yang ada di ponsel.
 
 
-Berikut kode kode tersembunyi pada ponsel.
+Berikut kode **kode tersembunyi pada ponsel**.
 
 *#*#4636#*#*
 
