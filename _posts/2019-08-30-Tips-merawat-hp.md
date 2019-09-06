@@ -17,7 +17,6 @@ Pertama buka menu terus masuk ke pengaturan atau setting hp,terus pilih manajer 
 
 Setelah masuk ke setting atau pengaturan manajer aplikasi lihat aplikasi mana saja yang data nya sudah menjadi besar,di usahakan hapus data dan cache aplikasi yang tidak pentingnya saja.
 
-**Tips merawat hp agar tidak lemot**
-Setelah menghapus data cache di aplikasi cek lagi kapasitas memori dan ram hp,di usahakan di penyimpanan internal telepon juga hapus beberapa file/data yang tidak penting agar memperluas penyimpanan telepon dan membuat hp agak ringan tidak berat.
+**Tips merawat hp agar tidak lemot**, setelah menghapus data cache di aplikasi cek lagi kapasitas memori dan ram hp,di usahakan di penyimpanan internal telepon juga hapus beberapa file/data yang tidak penting agar memperluas penyimpanan telepon dan membuat hp agak ringan tidak berat.
 
 Sekian tips dari saya semoga bermanfaat
