@@ -7,9 +7,9 @@ image: assets/images/smartfren.jpg
 tags: [featured]
 ---
 
-HALO sobat semuanya kali ini saya akan memberikan informasi tentang cara memakai kartu smartfren di hp GSM android, sebelum ke penyetingan kita harus tau lebih dulu hp apa saja yang suport atau bisa memakai kartu smartfren,karena ada yang bisa dan ada juga yang tidak bisa memakai kartu smartfen,misalnya dari samsung yaitu serie J hampir semuanya bisa memakai kartu smartfren,tidak hanya hp samsung saja merk hp lain juga bisa seperti,oppo vivo lenovo xiaomi asus juga bisa tapi ada yang suport kartu smartfren dan ada juga yang tidak suport.
+HALO sobat semuanya kali ini saya akan memberikan informasi tentang cara memakai kartu **smartfren di hp GSM android**, sebelum ke penyetingan kita harus tau lebih dulu hp apa saja yang suport atau bisa memakai kartu smartfren,karena ada yang bisa dan ada juga yang tidak bisa memakai kartu smartfen,misalnya dari samsung yaitu serie J hampir semuanya bisa memakai kartu smartfren,tidak hanya hp samsung saja merk hp lain juga bisa seperti,**Oppo Vivo Lenovo Xiaomi Asus** juga bisa tapi ada yang suport kartu smartfren dan ada juga yang tidak suport.
 
-Kali ini saya akan coba setting asus zenfone 3 serie asus Z017DB,pertama-tama yang pastinya kita harus punya dulu kartu smartfren GSMnya,kalo belum punya beli dulu,pertama masukan kartu sim smartfren lalu masuk ke pengaturan atau setiing,nah lalu cari jaringan seluler klik lalu masuk ke nama titik akses lalu kita buat apn smartfrennya seperti di bawah ini.
+Kali ini saya akan coba setting **asus zenfone 3** serie asus Z017DB,pertama-tama yang pastinya kita harus punya dulu kartu **smartfren GSM**nya,kalo belum punya beli dulu,pertama masukan kartu sim smartfren lalu masuk ke pengaturan atau setiing,nah lalu cari jaringan seluler klik lalu masuk ke nama titik akses lalu kita buat apn smartfrennya seperti di bawah ini.
 
 Apn Smartfren 
 
