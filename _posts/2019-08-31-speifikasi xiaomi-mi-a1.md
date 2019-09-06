@@ -7,9 +7,9 @@ image: assets/images/Mi-A1.jpg
 tags: [featured]
 ---
 
-Kali ini saya akan langsung memulai pembahasan dari spesifikasi dan UI pada perangkat Xiaomi Mi A1,Mi A1 yang dijagokan oleh Xiaomi ini sepertinya telah menjadi produk yang ditunggu-tunggu di tanah air,tapi tentunya kita semua penasaran,seberapa layak produk ditunggu? untuk itu kami telah menguji produk ini dan inilah hasil review kami untuk produk Mi A1.
+Kali ini saya akan langsung memulai pembahasan dari **spesifikasi** dan UI pada perangkat **Xiaomi Mi A1**,Mi A1 yang dijagokan oleh Xiaomi ini sepertinya telah menjadi produk yang ditunggu-tunggu di tanah air,tapi tentunya kita semua penasaran,seberapa layak produk ditunggu? untuk itu kami telah menguji produk ini dan inilah hasil review kami untuk produk Mi A1.
 
-Seperti yang telah banyak kita ketahui, Mi A1 pada dasarnya adalah perangkat yang sama dengan Xiaomi Mi 5X,yaitu memiliki spesifikasi diantaranya layar IPS 5,5 inci dengan resolusi Full HD yang dilapisi dengan pelindung layar Gorilla Glass,tidak diketahui secara spesifik jenis pelindung layar Gorilla Glass versi apa yang digunakan,sementara dapur pacunya adalah SoC Snapdragon 625 (Octa-Core 2,0 GHz ARM Cortex A53 + GPU Adreno 506),dibekali dengan RAM berkapasitas 4GB serta internal storage 64 GB.
+Seperti yang telah banyak kita ketahui, Mi A1 pada dasarnya adalah perangkat yang sama dengan **Xiaomi Mi 5X**,yaitu memiliki spesifikasi diantaranya layar IPS 5,5 inci dengan resolusi Full HD yang dilapisi dengan pelindung layar Gorilla Glass,tidak diketahui secara spesifik jenis pelindung layar Gorilla Glass versi apa yang digunakan,sementara dapur pacunya adalah SoC Snapdragon 625 (Octa-Core 2,0 GHz ARM Cortex A53 + GPU Adreno 506),dibekali dengan RAM berkapasitas 4GB serta internal storage 64 GB.
 
 Xiaomi mi A1
 
@@ -45,7 +45,7 @@ MEMORY:Card slot microSD,up to 128 GB (uses SIM 2 slot)
 
 Internal:64 GB, 4 GB RAM
 
-Di presentasi produknya,Xiaomi sangat membanggakan kemampuan fotografi Mi A1,tidak tanggung-tanggung,produsen mengklaim performanya sanggup menandingi iPhone 7 Plus berkat kombinasi sensor wide-angle dan telephoto 12-megapixel,setup ini katanya lebih baik dibanding pemakaian sensor RGB plus monokromatis yang umumnya diimplementasikan di handset rival.
+Di presentasi produknya,Xiaomi sangat membanggakan kemampuan fotografi Mi A1,tidak tanggung-tanggung,produsen mengklaim performanya sanggup menandingi **iPhone 7 Plus** berkat kombinasi sensor wide-angle dan telephoto 12-megapixel,setup ini katanya lebih baik dibanding pemakaian sensor RGB plus monokromatis yang umumnya diimplementasikan di handset rival.
 
 kamera MI A1
 Dual Camera:12 MP,f/2.2,26mm (wide),1.25µm,PDAF 12 MP,f/2.6,50mm(telephoto),1.0µm,AF,2x optical zoom.
