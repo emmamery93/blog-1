@@ -7,7 +7,7 @@ image: assets/images/Spesifikasi-xiaomi-micc9.jpg
 
 ---
 
-Xiaomi Mi CC9 resmi dirilis, ini dia spesifikasinya, Xiaomi akhirnya mengumumkan jagoan terbarunya, sesuai rumor ada dua ponsel yang diluncurkan, Xiaomi Mi CC9 dan Xiaomi Mi CC9e, secara tampilan kedua ponsel ini sama, hanya saja jeroan di dalamnya berbeda, kali ini akan mengulas tentang Xiaomi Mi CC9.
+**Xiaomi Mi CC9** resmi dirilis, ini dia spesifikasinya, Xiaomi akhirnya mengumumkan jagoan terbarunya, sesuai rumor ada dua ponsel yang diluncurkan, Xiaomi Mi CC9 dan Xiaomi Mi CC9e, secara tampilan kedua ponsel ini sama, hanya saja jeroan di dalamnya berbeda, kali ini akan mengulas tentang Xiaomi Mi CC9.
 
 
 
@@ -15,7 +15,7 @@ Xiaomi Mi CC9 resmi dirilis, ini dia spesifikasinya, Xiaomi akhirnya mengumumkan
 
 Xiomi Mi CC9 hadir dengan layar SUPER AMOLED, dengan fitur Always on Display,dengan ukuran layarnya 6,39 inch dengan resolusi Full HD+, 403 ppi, proteksi Corning Gorilla Glass 5.
 
-Dapur pacu Xiaomi Mi CC9 dipercayakan menggunakan chipset Qualcomm Snapdragon 710, cpu Octa-core berkecepatan 2x2.2 GHz Kryo 360 Gold, dibantu gpu Adreno 616.
+Dapur pacu Xiaomi Mi CC9 dipercayakan menggunakan **chipset Qualcomm Snapdragon** 710, cpu Octa-core berkecepatan 2x2.2 GHz Kryo 360 Gold, dibantu gpu Adreno 616.
 
 Xiaomi Mi CC9 mempunyai kapasitas penyimpanan internal yang lumayan luas 64/128 GB, 6 GB RAM or 256 GB, 8 GB RAM, memori external bisa mencapai 256 GB.
 
