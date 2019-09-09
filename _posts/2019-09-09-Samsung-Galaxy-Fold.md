@@ -11,7 +11,7 @@ Tidak salah untuk mengatakan bahwa euforia awal di sekitar ponsel cerdas yang da
 
 **Samsung Galaxy Fold** baru juga dilengkapi dengan dukungan untuk **jaringan 5G** dan karenanya telah dijuluki Galaxy Fold 5G. Namun perlu dicatat, bahwa itu mungkin tidak diluncurkan dengan kemampuan 5G di negara-negara di mana 5G belum dikerahkan.
 
-Selain itu, Galaxy Fold all-new Samsung tetap sama seperti sebelumnya. Ini fitur layar 4,6 inci di luar, yang disebut sebagai layar penutup. Dan begitu Anda membukanya, layar 7,3 inci menyambut Anda. Panel AMOLED merek telah dianggap yang terbaik di industri, dan telepon yang akan datang tampaknya tidak berbeda, menggabungkan visual yang mencolok dengan real estate layar besar. Sayangnya, pandangan ini tidak sepenuhnya bebas gangguan karena ada tingkat juga, yang sama seperti S10 + (tinjauan), memiliki dua penembak selfie dengan resolusi 8MP dan 10MP.
+Selain itu, **Galaxy Fold** all-new **Samsung** tetap sama seperti sebelumnya. Ini fitur layar 4,6 inci di luar, yang disebut sebagai layar penutup. Dan begitu Anda membukanya, layar 7,3 inci menyambut Anda. Panel **AMOLED** merek telah dianggap yang terbaik di industri, dan telepon yang akan datang tampaknya tidak berbeda, menggabungkan visual yang mencolok dengan real estate layar besar. Sayangnya, pandangan ini tidak sepenuhnya bebas gangguan karena ada tingkat juga, yang sama seperti S10+, memiliki dua kamera selfie dengan resolusi 8MP dan 10MP.
 
 Meskipun Anda mungkin berpikir bahwa Galaxy Fold itu berat, tetapi beratnya telah didistribusikan dengan cukup baik dan saya bisa menahannya sendirian dengan mudah. Karena itu, dalam keadaan terlipat perangkat ini cukup tebal dan akan membuat tonjolan di saku Anda jika Anda menyimpannya di dalam.
 
