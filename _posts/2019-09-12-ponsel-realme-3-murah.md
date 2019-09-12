@@ -9,7 +9,7 @@ image: assets/images/Realme-3.jpg
 
 Di tahun **201**9 ini banyak sekali brand-brand ternama merilis ponsel-ponsel terbarunya dengan harga terjangkau.
 
-Salah satu **ponsel murah** dengan harga terjangkau adalah **Realme **3, Realme 3 ini mempunyai ukuran layar 6.2 inc menggunakan panel IPS LCD, Realme 3 juga mempunyai desain layar berponi seperti ponsel lainya.
+Salah satu **ponsel murah** dengan harga terjangkau adalah **Realme 3**, Realme 3 ini mempunyai ukuran layar 6.2 inc menggunakan panel IPS LCD, Realme 3 juga mempunyai desain layar berponi seperti ponsel lainya.
 
 Realme 3 beroperasi dengan sistem **android** 9.0 pie, dan colorOs 6, Soal dapur pacu, **spesifikasi Realme 3** ditenagai oleh prosesor **MediaTeK Helio P60**, baterai 4.230 mAh, dan memiliki kamera belakang ganda 13MP + 2MP dengan fitur flagship Nightscape & Chroma Boost.
 
