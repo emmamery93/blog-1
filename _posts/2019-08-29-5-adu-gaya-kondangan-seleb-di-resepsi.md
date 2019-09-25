@@ -1,10 +1,15 @@
 ---
 layout: post
-title:  "5 Adu Gaya Kondangan Selebritis"
-author: Anto
-categories: [ selebriti, viral ]
+title: 5 Adu Gaya Kondangan Selebritis
+description: Adu Gaya Kondangan Selebritis
 image: assets/images/nama-image.jpg
-tags: [sticky]
+last_modified_date: 2019-09-25T12:02:46.893Z
+author: merry
+categories:
+  - selebriti
+  - viral
+tags:
+  - sticky
 ---
 
 Kebahagiaan tengah menyelimuti pasangan pengantin baru, Cut Meyriska dan Roger Danuarta. Setelah melaksanakan akad nikah pada tanggal 17 Agustus lalu, pada Minggu (25/8) malam keduanya menggelar resepsi mewah bertempat di Ritz Carlton Jakarta.
