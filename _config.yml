@@ -1,16 +1,16 @@
 # Site
-name: 'HPKU'
-description: 'HPku - informasi seputar gadget '
+name: "I Tech News"
+description: 'I Tech News - Berita seputar selebritish dan teknologi '
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-url: "https://hpku.info"
+url: "https://iinewstech.com"
 baseurl: '/'
 disqus: 'hpkuinfo'
-email: 'ytube1897@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+email: 'emmamery93@gmail.com'
+mailchimp-list: ''
 
 include: ["_pages"]
-permalink: /:title.html
+permalink: /:title
 
 # Plugins
 plugins: 
@@ -20,12 +20,12 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    anto:
-      name:           Anto
-      site:           https://hpku.info
+    merry:
+      name:           Merry
+      site:           https://www.iinewstech.com/
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Anto, the author of Hpku.info, Blog seputar smartphone "
-      email:          ytube1897@gmail.com 
+      bio:            "Hi sama .............................................
+      email:          emmamery93@gmail.com 
  
 # Defaults
 defaults:
@@ -35,7 +35,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: anto
+      author: merry
       avatar: /assets/images/avatar1.jpg
       
   # all pages
