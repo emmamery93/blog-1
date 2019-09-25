@@ -134,7 +134,7 @@ description: "Berita informasi seputar Selebriti"
 </div>
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-{% for post in site.posts %} 
+{% for post in site.posts limit: 1 %} 
 {% if post.tags contains "sticky" limit: 1 %}
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
     <div class="pl-4 pr-0 h-100 tofront">
