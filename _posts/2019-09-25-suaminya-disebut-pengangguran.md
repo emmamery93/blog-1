@@ -14,7 +14,7 @@ Melaney Ricardo membantah suaminya adalah pengangguran
 
 
 
-Nakita.id - Kehidupan seorang artis memang tak pernah lepas dari sorotan publik.
+Kehidupan seorang artis memang tak pernah lepas dari sorotan publik.
 
 
 
