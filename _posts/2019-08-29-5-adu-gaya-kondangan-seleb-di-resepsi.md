@@ -2,7 +2,7 @@
 layout: post
 title: 5 Adu Gaya Kondangan Selebritis
 description: Adu Gaya Kondangan Selebritis
-image: assets/images/nama-image.jpg
+image: assets/images/gambar-utama.jpg
 last_modified_date: 2019-09-25T12:02:46.893Z
 author: merry
 categories:
