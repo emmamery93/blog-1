@@ -1,11 +1,11 @@
 # Site
-name: "I Tech News"
-description: 'I Tech News - Berita seputar selebritish dan teknologi '
+name: "Dunia Selebriti"
+description: 'Berita Seputar Selebriti '
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-url: "https://iinewstech.com"
+url: "https://duniaselebriti.com"
 baseurl: '/'
-disqus: 'hpkuinfo'
+disqus: 'duniaselebriti'
 email: 'emmamery93@gmail.com'
 mailchimp-list: ''
 
