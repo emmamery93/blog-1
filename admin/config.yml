@@ -17,7 +17,10 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string", required: "false"}
+      - label: "Description" 
+        name: "description"
+        widget: "string" 
+        required: false
       - label: "Image"
         name: "image"
         widget: "image"
