@@ -12,13 +12,13 @@ Kebahagiaan tengah menyelimuti pasangan pengantin baru, Cut Meyriska dan Roger D
 Acara berlangsung meriah dan dihadiri sejumlah artis Indonesia tentunya dengan tampilan gaya kondangan super stylish. Penasaran bagaimana penampilan OOTD kondangan ala seleb di pernikahan Roget-Cut Meyriska ini? Yuk, simak perbandingan gayanya berikut ini!
 
 ### Tampil kompak bersama suami, Shireen Sungkar memilih memadukan dress hitam panjang, outerwear bordir motif etnik, mini bag, dan hijab cokelat
-![gambar1]
+![nama gambar 1][gambar1]
 ### Anissa Aziza terlihat mengenakan dress brokat berwarna cokelat nude, heels senada, dan gaya rambut low bun yang simple
-![gambar2]
+![nama gambar 2][gambar2]
 ### Mengusung nuansa gold dan satin, Alyssa Soebandono terlihat glamor dengan maxi dress berdetail ruffle, clutch, dan hijab krem
-![gambar3]
+![nama gambar 3][gambar3]
 ### Tampil girly, Fairuz A. Rafiq memilih gaun pink polos yang dipadukan dengan pashmina pink, dan tas tangan warna senada
-![gambar4]
+![nama gambar 4][gambar4]
 
 [gambar1] assets/images/review-xiaomi-s2.jpg
 [gambar2] assets/images/review-xiaomi-s2.jpg
