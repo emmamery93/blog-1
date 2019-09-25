@@ -3,7 +3,7 @@ layout: post
 title:  "5 Adu Gaya Kondangan Selebritis"
 author: Anto
 categories: [ selebriti, viral ]
-image: assets/images/review-xiaomi-s2.jpg
+image: assets/images/nama-image.jpg
 tags: [sticky]
 ---
 
