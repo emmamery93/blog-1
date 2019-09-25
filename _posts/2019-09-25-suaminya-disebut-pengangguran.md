@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Suaminya Disebut Pengangguran Enak-enakan di Rumah, Melaney Ricardo Beri
-  Pembelaan: "Dia Kerja Walau Penghasilannya Tak Sebesar Saya"
+title: 'Suaminya Disebut Pengangguran, Melaney Ricardo Beri Pembelaan'
 image: /assets/images/suamimelani.jpg
 last_modified_date: 2019-09-25T12:57:00.871Z
 author: merry
