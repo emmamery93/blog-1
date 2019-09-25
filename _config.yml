@@ -3,7 +3,7 @@ name: "Dunia Selebriti"
 description: 'Berita Seputar Selebriti '
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-url: "https://duniaselebriti.com"
+url: "http://selebriti.artipedia.id"
 baseurl: '/'
 disqus: 'duniaselebriti'
 email: 'emmamery93@gmail.com'
