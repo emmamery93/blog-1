@@ -803,4 +803,6 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
- 
+ .navbar-brand.mr-2.mb-0 img {
+    margin: 5px 0 0 0;
+}
