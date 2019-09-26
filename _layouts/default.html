@@ -1,3 +1,4 @@
+  
 ---
 layout: compress
 ---
@@ -18,18 +19,23 @@ layout: compress
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 
-    <!-- Font Awesome Icons --><link rel="preload" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" as="style" onload="this.rel='stylesheet'" />
-    <noscript><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"></noscript>
-   
-    
-    <!-- Google Fonts-->
-    
-    <!-- Bootstrap Modified -->
-    <link rel="stylesheet" href="{{site.url}}/assets/css/main.min.css">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
-  
+    <!-- Google Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700" rel="stylesheet">
+
+    <!-- Bootstrap Modified -->
+    <link rel="stylesheet" href="{{site.url}}/assets/css/main.css">
+
+    <!-- Theme Stylesheet -->
+    <link rel="stylesheet" href="{{site.url}}/assets/css/theme.css">
+
     <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
-    
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
 
     {% include tracking-header.html %}
 
@@ -68,7 +74,10 @@ layout: compress
 
 
     <!-- Scripts: popper, bootstrap, theme, lunr -->
-    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
     
 
 
@@ -92,15 +101,8 @@ layout: compress
     </footer>
 
     {% include tracking-footer.html %}
-    <script
-    src="https://code.jquery.com/jquery-3.3.1.min.js"
-    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-    crossorigin="anonymous"></script>
-    <script src="{{site.url}}/assets/js/main.min.js"></script>
+    
+    <script src="{{site.url}}/assets/js/theme.js"></script>
     {% if page.layout == 'post' %}
     <script type='text/javascript'>var disqus_shortname="{{site.disqus}}",disqus_config=function(){this.page.url="{{ page.url | absolute_url }}",this.page.identifier="{{ page.url | absolute_url }}"},is_disqus_loaded=!1;function loadDisqus(){if(!is_disqus_loaded){is_disqus_loaded=!0;var s=document,e=s.createElement("script");e.src="//"+disqus_shortname+".disqus.com/embed.js",e.setAttribute("data-timestamp",+new Date),(s.head||s.body).appendChild(e)}}
 </script>{% endif %}
-
-</body>
-
-</html>
