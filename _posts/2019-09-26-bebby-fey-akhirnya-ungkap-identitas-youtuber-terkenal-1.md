@@ -4,6 +4,7 @@ title: Bebby Fey Akhirnya Ungkap Identitas YouTuber Terkenal
 description: >-
   Bebby Fey Akhirnya Ungkap Identitas YouTuber Terkenal , Dia adalah Atta
   Halilintar
+image: /assets/images/atta.jpg
 last_modified_date: 2019-09-26T02:34:06.663Z
 author: Mery
 categories:
