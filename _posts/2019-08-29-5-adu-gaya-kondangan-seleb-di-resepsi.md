@@ -18,6 +18,8 @@ Acara berlangsung meriah dan dihadiri sejumlah artis Indonesia tentunya dengan t
 
 ### Tampil kompak bersama suami, Shireen Sungkar memilih memadukan dress hitam panjang, outerwear bordir motif etnik, mini bag, dan hijab cokelat
 ![nama gambar 1][gambar1] 
+*Shireen Sungkar*
+
 ### Anissa Aziza terlihat mengenakan dress brokat berwarna cokelat nude, heels senada, dan gaya rambut low bun yang simple
 ![nama gambar 2][gambar2]
 ### Mengusung nuansa gold dan satin, Alyssa Soebandono terlihat glamor dengan maxi dress berdetail ruffle, clutch, dan hijab krem
