@@ -25,7 +25,7 @@ Acara berlangsung meriah dan dihadiri sejumlah artis Indonesia tentunya dengan t
 ### Tampil girly, Fairuz A. Rafiq memilih gaun pink polos yang dipadukan dengan pashmina pink, dan tas tangan warna senada
 ![nama gambar 4][gambar4]
 
-[gambar1]: assets/images/gambar-1.jpg
-[gambar2]: assets/images/gambar-2.jpg
-[gambar3]: assets/images/gambar-3.jpg
-[gambar4]: assets/images/gambar-4.jpg
+[gambar1]: assets/images/gambar-1.jpg ***Image:*** *description*
+[gambar2]: assets/images/gambar-2.jpg ***Image:*** *description*
+[gambar3]: assets/images/gambar-3.jpg ***Image:*** *description*
+[gambar4]: assets/images/gambar-4.jpg ***Image:*** *description*
