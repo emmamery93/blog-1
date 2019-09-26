@@ -20,8 +20,8 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    merry:
-      name:           Merry
+    Emma:
+      name:           Emma
       site:           https://iinewstech.com/
       avatar:         /assets/images/avatar1.png
       bio:            "Hi sama ............................................."
