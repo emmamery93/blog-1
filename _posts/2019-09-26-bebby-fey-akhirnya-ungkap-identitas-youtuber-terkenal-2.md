@@ -20,7 +20,7 @@ Setelah mengungkap bukti obrolan lewat pesan singkat, kini Bebby Fey menguak ide
 Dengan bukti disertai identitas pria yang diduga telah melecehkan dirinya, Bebby meyakinkan publik bahwa apa yang dialami adalah kenyataan. Bebby tak bermaksud tebar sensasi untuk popularitas, ia hanya ingin ungkap kebenaran supaya tak ada wanita yang mengalami hal sama seperti dirinya. 
 
 > Apa yang saya alami adalah berita yang benar, tidak ada yang saya tutup -  tutupi , saya tidak pansos, apa yang saya alami memang benar-benar nyata, tegasnya. 
->
+
 > Aku berharap dengan kejadian ini tidak ada lagi perempuan yang kamu bohongi, seperti saya. Saya, saya mewakili wanita-wanita di Indonesia yang pernah jadi korban dia, saya nggak tahu siapa. Saya berusaha jadi icon yang berani untuk mengungkap cerita ini. Saya bisa cerita kayak gini karena saya merasa sakit hati karena sebuah janji tak ditepati sambungnya.
 
 Setelah pengakuannya yang sangat mengejutkan, apakah Bebby akan menyeret Atta ke ranah hukum? Benarkah Bebby juga menuntut permohonan maaf Atta yang dilakukan secara terbuka? 
