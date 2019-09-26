@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sadis, Begini Isi DM Pribadi Franda ke Ortu Zylvechia Soal Jiplak Nama"
-author: merry
+author: Mery
 categories: [ selebriti, viral ]
 image: assets/images/nama-image.jpg
 tags: [featured]
