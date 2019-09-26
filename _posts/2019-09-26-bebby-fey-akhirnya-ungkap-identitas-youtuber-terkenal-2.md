@@ -12,6 +12,7 @@ categories:
   - Viral
 tags:
   - sticky
+  - featured
 ---
 Setelah mengungkap bukti obrolan lewat pesan singkat, kini Bebby Fey menguak identitas YouTuber Terkenal nakal yang pernah menggodanya. seperti dugaan publik selama ini Di depan media, DJ seksi itu menyebut nama Atta Halilintar.
 
