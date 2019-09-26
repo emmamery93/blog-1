@@ -18,7 +18,16 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [all]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
+    
 authors:
     Mery:
       name:           Mery
