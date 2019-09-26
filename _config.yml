@@ -24,7 +24,7 @@ authors:
       name:           Mery
       site:           https://iinewstech.com/
       avatar:         /assets/images/avatar1.png
-      bio:            "Hi sama ............................................."
+      bio:            "Hi selamat datang di web aku ya, semoga betah :) "
       email:          emmamery93@gmail.com 
       twitter:        https://twitter.com
       facebook:       https://facebook.com
@@ -37,7 +37,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: merry
+      author: mery
       avatar: /assets/images/avatar1.png
       
   # all pages
