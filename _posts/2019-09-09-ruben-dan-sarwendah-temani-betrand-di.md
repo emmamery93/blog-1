@@ -3,7 +3,7 @@ layout: post
 title: >-
   Ruben dan Sarwendah Temani Betrand di Hari Pertama Sekolah, Thalia 'Ngalah'
   Diantar Jordi Onsu
-last_modified_date: 2019-09-26T11:50:28.683Z
+last_modified_date: 2019-09-26T11:51:17.375Z
 author: Senyum indah
 categories:
   - selebriti
