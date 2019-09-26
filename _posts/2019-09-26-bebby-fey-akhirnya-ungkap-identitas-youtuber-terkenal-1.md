@@ -13,6 +13,8 @@ categories:
 tags:
   - sticky
 ---
+![https://www.google.co.id/url?sa=i&source=images&cd=&ved=2ahUKEwikwYqUwu3kAhX3ILcAHZoHBR4QjRx6BAgBEAQ&url=https%3A%2F%2Fasianet.id%2Fhot-atta-halilintar-terseret-skandal-dengan-dj-seksi-bebby-fey%2F&psig=AOvVaw0edcxzZG1hqujFJwBquLao&ust=1569553919966030](/assets/images/atta.jpg)
+
 Setelah mengungkap bukti obrolan lewat pesan singkat, kini Bebby Fey menguak identitas YouTuber Terkenal nakal yang pernah menggodanya. seperti dugaan publik selama ini Di depan media, DJ seksi itu menyebut nama Atta Halilintar.
 
 “Yang selama ini saya tutupi, seorang YouTuber terkenal itu, yaitu Atta Halilintar,” ungkap Bebby didampingi kuasa hukum dan manajer, saat ditemui di Pondok Indah, Jakarta Selatan, Rabu (25/9) malam. 
