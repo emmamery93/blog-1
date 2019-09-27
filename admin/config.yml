@@ -7,7 +7,6 @@ logo_url: https://iinewstech.com/assets/images/logo-via-logohub.png
 media_folder: "assets/images"
 public_folder: "/assets/images/"
 
-publish_mode: editorial_workflow
 collections:
   - name: "posts"
     label: "posts"
