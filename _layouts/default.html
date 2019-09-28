@@ -19,7 +19,9 @@ layout: compress
     <link rel="manifest" href="/site.webmanifest">
 
     <!-- Font Awesome Icons -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="preload" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" as="style" onload="this.rel='stylesheet'" >
+    <noscript>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" ></noscript>
     <!-- Bootstrap Modified -->
     <link rel="stylesheet" href="{{site.url}}/assets/css/main.min.css">
     <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
