@@ -2,6 +2,7 @@ User-agent: Mediapartners-Google
 Disallow: 
 
 User-agent: *
+Disallow: https://iinewstech.com/page/
 Allow:/
 
 
