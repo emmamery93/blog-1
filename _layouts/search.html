@@ -47,10 +47,25 @@
         </div>
     </div>
     </nav>
-  {{ content }}
+ <main role="main" class="site-content">
+        {{ content }}
+    </main>
+      <footer class="bg-white border-top p-3 text-muted small">
+        <div class="container">
+        <div class="row align-items-center justify-content-between">
+            <div>
+                <span class="navbar-brand mr-2 mb-0"><strong><img src="https://iinewstech.com/assets/images/logo-via-logohub.png" width="200" title="Dunia Selebriti" alt="Dunia Selebriti"></strong></span>
+                <span>Copyright © <script>document.write(new Date().getFullYear())</script>.</span>
 
-  {% include anchor_links.html %}
-  {% include analytics.html %}
+                <!--  Github Repo Star Btn-->
+                <a class="text-dark ml-1" target="_blank" href="https://github.com"><i class="fab fa-github"></i></a>
 
+            </div>
+            <div>
+                Partner <a titlle="artipedia - berita seputar pendidikan" target="_blank" class="text-dark font-weight-bold" href="httsp://artipedia.id"> ArtiPedia </a>.
+            </div>
+        </div>
+        </div>
+    </footer>
 </body>
 </html>
