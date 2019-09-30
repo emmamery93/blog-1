@@ -1,5 +1,5 @@
 ---
-layout: error
+layout: page
 title: Search
 permalink: /search/
 sitemap: false
