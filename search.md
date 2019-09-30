@@ -60,7 +60,6 @@ table {
 input#search-input {
     border-radius: 5px !important;
     color: #9a9a9a;
-    background-color: #333 !important;
     box-shadow: 0 0 1px 0 #555 !important;
     display: inline-block;
     box-sizing: border-box !important;
