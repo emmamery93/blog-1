@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">                <meta name="msvalidate.01" content="45256F6C01A5B0893737B4B675E797AE" />
+ 
+
+    {% seo %}
+
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    <!-- Font Awesome Icons -->
+    <link rel="preload" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" as="style" onload="this.rel='stylesheet'" >
+    <noscript>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" ></noscript>
+    <!-- Bootstrap Modified -->
+    <link rel="stylesheet" href="{{site.url}}/assets/css/main.min.css">
+    <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
+    
+
+    {% include tracking-header.html %}
+
+
+</head>
+
+
+<body class="wrap">
+  <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="/"><img src="https://iinewstech.com/assets/images/logo-via-logohub.png" width="200" title="{{site.name}}" alt="{{site.name}}">
+{% if page.layout != 'post' %}<h1 class='sr-only'>{{site.name}}</h1> {% endif %}</a>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse" id="navbarColor02" style="">
+            <ul class="navbar-nav mr-auto d-flex align-items-center">
+               {% include menu-header.html %}
+            </ul>
+            <ul class="navbar-nav ml-auto d-flex align-items-center">
+                {% include search-lunr.html %}
+            </ul>
+        </div>
+    </div>
+    </nav>
+  {{ content }}
+
+  {% include anchor_links.html %}
+  {% include analytics.html %}
+
+</body>
+</html>
