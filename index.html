@@ -3,7 +3,7 @@ title: "Berita Seputar Selebriti"
 layout: default
 pagination:
     enabled: true
-description: "Berita viral seputar Selebriti Indonesia"
+description: "Berita viral seputar Selebriti Indonesia Terbaru, Update berita selebritis terbaru"
 ---
 
 
@@ -34,7 +34,7 @@ description: "Berita viral seputar Selebriti Indonesia"
         <small class="d-block text-muted">
             In <span class="catlist">
                 {% for category in latest_post.categories %}
-                <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/categories#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
                 </span>                   
         </small>
@@ -92,7 +92,7 @@ description: "Berita viral seputar Selebriti Indonesia"
                     <small class="d-block text-muted">
                         In <span class="catlist">
                         {% for category in third_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/categories#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
@@ -119,7 +119,7 @@ description: "Berita viral seputar Selebriti Indonesia"
                     <small class="d-block text-muted">
                         In <span class="catlist">
                         {% for category in fourth_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/categories#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
