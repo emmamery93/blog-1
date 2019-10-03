@@ -9,6 +9,7 @@ categories:
   - viral
 tags:
   - sticky
+  - featured
 ---
 Melaney Ricardo membantah suaminya adalah pengangguran 
 
