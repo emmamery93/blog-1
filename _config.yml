@@ -3,7 +3,7 @@ name: "Dunia Selebriti"
 description: 'Berita Seputar Selebriti '
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-url: "https://iinewstech.com"
+url: "https://duniaselebriti.com"
 baseurl: '/'
 disqus: 'dunia-selebriti'
 email: 'emmamery93@gmail.com'
@@ -31,7 +31,7 @@ compress_html:
 authors:
     Mery:
       name:           Mery
-      site:           https://iinewstech.com/
+      site:           https://duniaselebriti.com/
       avatar:         /assets/images/avatar1.png
       bio:            "Hi selamat datang di web aku ya, semoga betah :) "
       email:          emmamery93@gmail.com 
