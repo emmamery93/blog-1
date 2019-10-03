@@ -1,13 +1,13 @@
 ---
 layout: search
 title: Search
-permalink: /search/
+permalink: /search
 sitemap: false
 ---
 
 <script>
   (function() {
-    var cx = '007403992188975548092:zz2ezdxqrfn';
+    var cx = 'partner-pub-3231898813936275:3009357865';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
