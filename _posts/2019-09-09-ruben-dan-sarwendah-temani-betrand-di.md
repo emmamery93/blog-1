@@ -11,7 +11,7 @@ categories:
 tags:
   - featured
 ---
-WowKeren - Putra angkat Ruben Onsu dan Sarwendah, Betrand Peto, mulai bersekolah di Jakarta hari ini. Ruben dan Wendah kompak mengantar Betrand ke sekolah barunya. Melalui unggahan di Instagram, Ruben juga menuliskan doa dan harapannya untuk sang putra.  
+Putra angkat Ruben Onsu dan Sarwendah, Betrand Peto, mulai bersekolah di Jakarta hari ini. Ruben dan Wendah kompak mengantar Betrand ke sekolah barunya. Melalui unggahan di Instagram, Ruben juga menuliskan doa dan harapannya untuk sang putra.  
 
 >Pagi ini mengantarkan putra pertama kami @bentoxbensu sekolah, sama kebanyakan orang tua yg berpesan untuk utamakan pendidikan dan buat bangga keluargamu di Manggarai NTT," tulis Ruben pada Senin (9/9). "Serta buat ayah bunda mu bangga yg menjaga dan membesarkanmu saat ini, semangat kakak sekolah nya.
 
