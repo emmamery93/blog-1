@@ -9,7 +9,7 @@ disqus: 'dunia-selebriti'
 email: 'emmamery93@gmail.com'
 mailchimp-list: ''
 
-include: ["_pages, .htaccess, _redirects"]
+include: ["_pages"]
 permalink: /:title
 
 # Plugins
@@ -30,8 +30,17 @@ compress_html:
     
 authors:
     Mery:
+      name:           Mery 
+      site:           https://hpku.info
+      avatar:         /assets/images/avatar1.png
+      bio:            "Hi, I am Emma, the author of Hpku.info, Blog seputar smartphone "
+      email:          emmamery93@gmail.com 
+ 
+    
+authors:
+    Mery:
       name:           Mery
-      site:           https://duniaselebriti.com/
+      site:           https://iinewstech.com/
       avatar:         /assets/images/avatar1.png
       bio:            "Hi selamat datang di web aku ya, semoga betah :) "
       email:          emmamery93@gmail.com 
