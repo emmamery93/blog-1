@@ -9,7 +9,7 @@ disqus: 'dunia-selebriti'
 email: 'emmamery93@gmail.com'
 mailchimp-list: ''
 
-include: [_pages, .htaccess, _redirect]
+include: [_pages, .htaccess, _redirects]
 permalink: /:title
 
 # Plugins
