@@ -30,15 +30,6 @@ compress_html:
     
 authors:
     Mery:
-      name:           Mery 
-      site:           https://hpku.info
-      avatar:         /assets/images/avatar1.png
-      bio:            "Hi, I am Emma, the author of Hpku.info, Blog seputar smartphone "
-      email:          emmamery93@gmail.com 
- 
-    
-authors:
-    Mery:
       name:           Mery
       site:           https://iinewstech.com/
       avatar:         /assets/images/avatar1.png
@@ -55,7 +46,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Mery
+      authors: Mery
       avatar: /assets/images/avatar1.png
       
   # all pages
