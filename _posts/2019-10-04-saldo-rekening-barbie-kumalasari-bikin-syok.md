@@ -9,7 +9,7 @@ categories:
   - Selebriti
   - Viral
 tags:
-  - Featured
+  - sticky
 ---
 Masih menjadi perbincangan terkait kontroversi dan sensasinya tentang koleksi berlian hingga barang – barang branded kini Presenter Uya Kuya menantang Barbie Kumalasari untuk membuktikan pengakuannya sebagai orang kaya raya. Tampa ragu, istri siri Galih Ginanjar itu menyebut saldo rekeningnya 
 
