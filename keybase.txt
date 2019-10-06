@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mmomery
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://duniaselebriti.com
+  * I am mmomery (https://keybase.io/mmomery) on keybase.
+  * I have a public key ASCbwjMObH_vxQfzK6jRlnx1Qys14oCJzPra4AwCgxwXvAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209bc2330e6c7fefc507f32ba8d1967c75432b35e28089ccfadae00c02831c17bc0a",
+      "host": "keybase.io",
+      "kid": "01209bc2330e6c7fefc507f32ba8d1967c75432b35e28089ccfadae00c02831c17bc0a",
+      "uid": "a0b802a74d56c8573a9d9a944836d819",
+      "username": "mmomery"
+    },
+    "merkle_root": {
+      "ctime": 1570357561,
+      "hash": "abd47cb330ac89dbfe75ba7fa807324c4d2aa41a784cda03395601a3e699568ec2e9ea1040488ad7f4c75552616c7f44815a75b81ba6a929232af2c3c881a15a",
+      "hash_meta": "c286a0ead9b73d702f89e119c75ed6ea7c41e574b6ea7eb909acb254dd60c15c",
+      "seqno": 7882856
+    },
+    "service": {
+      "entropy": "TaQmy+DcwcB9YcSvNZ47ADkq",
+      "hostname": "duniaselebriti.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1570357575,
+  "expire_in": 504576000,
+  "prev": "4aa39af262abaa0febdc8757c66793fbe73898739491e96b19469cb697707089",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgm8IzDmx/78UH8yuo0ZZ8dUMrNeKAicz62uAMAoMcF7wKp3BheWxvYWTESpcCCMQgSqOa8mKrqg/r3IdXxmeT++c4mHOUkelrGUactpdwcInEICawGykLq4QipjOqq8UdvF7wsZWi4JklXl2RAvBgmsGvAgHCo3NpZ8RAAClb6Bs/DjDC3dS9tE+FrjoV/0m29+aqIe1gSDoF1OdBFRFlZa8lsZU3vk0h9Vg/S2omIc8Yx71i1Dxfi+F0DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBxxsqXgSQNdL8SJzFpUjNfIibAP/R5oEnwVfBk9U7MVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mmomery
+
+==================================================================
